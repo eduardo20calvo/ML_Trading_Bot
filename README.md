@@ -1,1 +1,8 @@
-# ML_Trading_Bot
+![image](https://user-images.githubusercontent.com/104874384/193718799-1b907777-f381-4670-b8e4-7f240551853a.png)
+![image](https://user-images.githubusercontent.com/104874384/193718825-2551114a-ed72-49ba-8b77-dad5f6500307.png)
+![image](https://user-images.githubusercontent.com/104874384/193718838-60d3a246-07c4-46d5-bab6-ea6f8c1af77f.png)
+![image](https://user-images.githubusercontent.com/104874384/193718856-6f32af5f-b734-469c-a4ef-e8b1814a351c.png)
+![image](https://user-images.githubusercontent.com/104874384/193718875-a73d4b69-668e-44d5-8d93-88274f5f5741.png)
+![image](https://user-images.githubusercontent.com/104874384/193718905-55d08d56-4df0-4a77-901d-267f45412f10.png)
+![image](https://user-images.githubusercontent.com/104874384/193718922-4f9c67a2-4417-48e0-8f2b-0f17f42de6dc.png)
+![image](https://user-images.githubusercontent.com/104874384/193718941-b0ccb7a6-371f-44fd-80f9-a43fda018616.png)
